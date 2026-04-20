@@ -2,7 +2,7 @@
 ## Overview
 This is a beginner-level Python project that performs statistical analysis on student data using NumPy.
 It covers essential concepts required for Data Science and Machine Learning.
-##Features
+## Features
 Basic Statistics
 Mean,
 Median,
