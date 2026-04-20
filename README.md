@@ -6,11 +6,11 @@ It covers essential concepts required for Data Science and Machine Learning.
 Basic Statistics
 Mean,
 Median,
-Mode,
+Mode
 ## Spread Analysis
 Range,
 Variance,
-Standard Deviation,
+Standard Deviation
 ## Outlier Detection
 Using IQR (Interquartile Range),
 Correlation Analysis,
