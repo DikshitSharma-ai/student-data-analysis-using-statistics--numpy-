@@ -38,4 +38,3 @@ Implementing statistical formulas in Python,
 Data preprocessing for Machine Learning
 ## Author
 Dikshit Sharma
-Aspiring AI/ML Engineer building strong fundamentals
